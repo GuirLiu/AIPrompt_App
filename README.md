@@ -1,7 +1,7 @@
 **Practice Project following: JavaScript Mastery (https://www.youtube.com/watch?v=wm5gMKuwSYk)**
 **Updates:**
-**1. Corrected the code breaking caused by package version upgrade.
-2. Enabled search by tag feature from profile page.**
+**1. Corrected the code breaking caused by package version upgrade.**
+**2. Enabled search by tag feature from profile page.**
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
